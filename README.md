@@ -1,3 +1,3 @@
 ## Mousemove Animation
 
-https://media.giphy.com/media/lGpg47QvWwHFCJDbJL/giphy.gif
+![Alt Text](https://media.giphy.com/media/lGpg47QvWwHFCJDbJL/giphy.gif)
